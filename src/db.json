@@ -1,0 +1,317 @@
+{
+   "products" : [
+        {
+            "id": 2,
+            "image": "../images/numberfour.png",
+            "title": "bakery bread viennoiserie...",
+            "price":"$40.00 ",
+            "fulprice":" $30.00 (1kg)"
+        },
+        {
+            "id": 3,
+            "image": "../images/numbertwo.png",
+            "title": "ICE cream cones sundae...",
+            "price":"$20.00  ",
+            "fulprice":" $15.00 (450ml)"
+        },
+        {
+            "id": 4,
+            "image": "../images/numberthree.png",
+            "title": "Papaya seed auglis fruit...",
+            "price":"$45.00 ",
+            "fulprice":" $35.00 (1.5kg)"
+        }
+    ],
+    "Asal": [
+        {
+            "id": 1,
+            "image": "../images/Rectangle72.png",
+            "price":"$45.00 ",
+            "fulprice":" $35.00 (1.5kg)",
+            "title": "Peanut Oil"
+        },
+        {
+            "id": 2,
+            "image": "../images/Rectangle72(1).png",
+            "price":"$45.00 ",
+            "fulprice":" $35.00 (1.5kg)",
+            "title": "Coconut Milk"
+        },
+        {
+            "id": 3,
+            "image": "../images/Rectangle 72 (2).png",
+            "price":"$45.00 ",
+            "fulprice":" $35.00 (1.5kg)",
+            "title":"Prime Beef"
+        },
+        {
+            "id": 4,
+            "image": "../images/Rectangle 72 (3).png",
+            "price":"$45.00 ",
+            "fulprice":" $35.00 (1.5kg)",
+            "title": "Mulberry"
+        },
+        {
+            "id": 5,
+            "image": "../images/Rectangle 72 (4).png",
+            "price":"$45.00 ",
+            "fulprice":" $35.00 (1.5kg)",
+            "title": "Coconut Milk"
+        },
+        {
+            "id": 6,
+            "image": "../images/Rectangle 72 (5).png",
+            "price":"$45.00 ",
+            "fulprice":" $35.00 (1.5kg)",
+            "title": "Cream Cake"
+        },
+        {
+            "id": 7,
+            "image": "../images/Rectangle 72 (6).png",
+            "price":"$45.00 ",
+            "fulprice":" $35.00 (1.5kg)",
+            "title":"Crown Daisy"
+        },
+        {
+            "id": 8,
+            "image": "../images/Rectangle 72 (7).png",
+            "price":"$45.00 ",
+            "fulprice":" $35.00 (1.5kg)",
+            "title": "Delicious Milk"
+        },
+        {
+            "id": 9,
+            "image": "../images/Rectangle 72 (8).png",
+            "price":"$45.00 ",
+            "fulprice":" $35.00 (1.5kg)",
+            "title":"Fresh Apple"
+        },
+        {
+            "id": 10,
+            "image": "../images/Rectangle 72 (9).png",
+            "price":"$45.00 ",
+            "fulprice":" $35.00 (1.5kg)",
+            "title": "Chicken Meat"
+        },
+        {
+            "id": 11,
+            "image": "../images/Rectangle 72 (10).png",
+            "price":"$45.00 ",
+            "fulprice":" $35.00 (1.5kg)",
+            "title": "Fresh Fish"
+        },
+        {
+            "id": 12,
+            "image": "../images/Rectangle 72 (11).png",
+            "price":"$45.00 ",
+            "fulprice":" $35.00 (1.5kg)",
+            "title": "Kiwifruit Food"
+        }
+    ],
+    "Fruits": [
+        {
+            "id": 1,
+            "image": "../images/Fruits/banana.webp",
+            "price":"$45.00 ",
+            "fulprice":" $35.00 (1.5kg)",
+            "title": "Banana"
+        },
+        {
+            "id": 2,
+            "image": "../images/Fruits/bigmandarin.webp",
+            "price":"$45.00 ",
+            "fulprice":" $35.00 (1.5kg)",
+            "title": "Big Mandarin"
+        },
+        {
+            "id": 3,
+            "image": "../images/Fruits/grapefruit.webp",
+            "price":"$45.00 ",
+            "fulprice":" $35.00 (1.5kg)",
+            "title":"Grape Fruit"
+        },
+        {
+            "id": 4,
+            "image": "../images/Fruits/grusha.webp",
+            "price":"$45.00 ",
+            "fulprice":" $35.00 (1.5kg)",
+            "title": "pear"
+        },
+        {
+            "id": 5,
+            "image": "../images/Fruits/kiwi.webp",
+            "price":"$45.00 ",
+            "fulprice":" $35.00 (1.5kg)",
+            "title": "Kiwi"
+        },
+        {
+            "id": 6,
+            "image": "../images/Fruits/malina.webp",
+            "price":"$45.00 ",
+            "fulprice":" $35.00 (1.5kg)",
+            "title": "Raspberry"
+        },
+        {
+            "id": 7,
+            "image": "../images/Fruits/mandarin.webp",
+            "price":"$45.00 ",
+            "fulprice":" $35.00 (1.5kg)",
+            "title":"Mandarin"
+        },
+        {
+            "id": 8,
+            "image": "../images/Fruits/melon.webp",
+            "price":"$45.00 ",
+            "fulprice":" $35.00 (1.5kg)",
+            "title": "Melon"
+        },
+        {
+            "id": 9,
+            "image": "../images/Fruits/orik.webp",
+            "price":"$45.00 ",
+            "fulprice":" $35.00 (1.5kg)",
+            "title":"Aprikot"
+        },
+        {
+            "id": 10,
+            "image": "../images/Fruits/qulpinoy.webp",
+            "price":"$45.00 ",
+            "fulprice":" $35.00 (1.5kg)",
+            "title": "strawberry"
+        },
+        {
+            "id": 11,
+            "image": "../images/Fruits/tarviz.webpg",
+            "price":"$45.00 ",
+            "fulprice":" $35.00 (1.5kg)",
+            "title": "Watermelon"
+        },
+        {
+            "id": 12,
+            "image": "../images/Fruits/yong'oq.webpg",
+            "price":"$45.00 ",
+            "fulprice":" $35.00 (1.5kg)",
+            "title": "Nut"
+        }
+
+    ],
+    "Vegetables": [
+        {
+            "id": 1,
+            "image": "../images/Vegetables/Balarskiy.jpg",
+            "price":"$45.00 ",
+            "fulprice":" $35.00 (1.5kg)",
+            "title": "Banana"
+        },
+        {
+            "id": 2,
+            "image": "../images/Vegetables/Baqlajon.jpg",
+            "price":"$45.00 ",
+            "fulprice":" $35.00 (1.5kg)",
+            "title": "Big Mandarin"
+        },
+        {
+            "id": 3,
+            "image": "../images/Vegetables/Bean.jpg",
+            "price":"$45.00 ",
+            "fulprice":" $35.00 (1.5kg)",
+            "title":"Grape Fruit"
+        },
+        {
+            "id": 4,
+            "image": "../images/Vegetables/Broccoli.jpg",
+            "price":"$45.00 ",
+            "fulprice":" $35.00 (1.5kg)",
+            "title": "pear"
+        },
+        {
+            "id": 5,
+            "image": "../images/Vegetables/Carrot.jpg",
+            "price":"$45.00 ",
+            "fulprice":" $35.00 (1.5kg)",
+            "title": "Kiwi"
+        },
+        {
+            "id": 6,
+            "image": "../images/Vegetables/Cheery Tomato.jpg",
+            "price":"$45.00 ",
+            "fulprice":" $35.00 (1.5kg)",
+            "title": "Raspberry"
+        },
+        {
+            "id": 7,
+            "image": "../images/Vegetables/Cucumber.jpg",
+            "price":"$45.00 ",
+            "fulprice":" $35.00 (1.5kg)",
+            "title":"Mandarin"
+        },
+        {
+            "id": 8,
+            "image": "../images/Vegetables/Green Chili.jpg",
+            "price":"$45.00 ",
+            "fulprice":" $35.00 (1.5kg)",
+            "title": "Melon"
+        },
+        {
+            "id": 9,
+            "image": "../images/Vegetables/Sweet Corn.jpg",
+            "price":"$45.00 ",
+            "fulprice":" $35.00 (1.5kg)",
+            "title":"Aprikot"
+        },
+        {
+            "id": 10,
+            "image": "../images/Vegetables/piyoz.jpg",
+            "price":"$45.00 ",
+            "fulprice":" $35.00 (1.5kg)",
+            "title": "strawberry"
+        },
+        {
+            "id": 11,
+            "image": "../images/Vegetables/Potato.jpg",
+            "price":"$45.00 ",
+            "fulprice":" $35.00 (1.5kg)",
+            "title": "Watermelon"
+        },
+        {
+            "id": 12,
+            "image": "../images/Vegetables/Pumpkin.jpg",
+            "price":"$45.00 ",
+            "fulprice":" $35.00 (1.5kg)",
+            "title": "Nut"
+        }
+
+    ],
+        "fruits1we": [
+            {
+                "id": 1,
+                "icon": "🍏",
+                "title": "Fruits"
+            },
+            {
+                "id": 2,
+                "icon": "🥦",
+                "title": "Vegitables"
+            },
+            {
+                "id": 3,
+                "icon": "🐠",
+                "title": "Fish"
+            },
+            {
+                "id": 4,
+                "icon": "🥩",
+                "title": "Meat"
+            },
+            {
+                "id": 5,
+                "icon": "🍜",
+                "title": "Pasta"
+            },
+            {
+                "id": 6,
+                "icon": "🧁",
+                "title": "Sweets"
+            }
+        ]
+}

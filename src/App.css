@@ -1,0 +1,169 @@
+/* Navbar style boshlandi  */
+.nav-a-color {
+    color: #888888;
+    font-weight: 600;
+}
+
+.collapse {
+    margin-left: 8%;
+}
+
+.nav-input-style {
+    width: 250px;
+    height: 50px;
+    background: rgba(226, 26, 67, 0.1);
+    border: none;
+}
+
+.nav-btn-style {
+    width: 50px;
+    height: 50px;
+    background: #E21A43;
+    border: none;
+    margin-right: 2%;
+}
+
+.nav-btn-style-2 {
+    width: 50px;
+    height: 50px;
+    background: rgba(226, 26, 67, 0.1);
+    margin-right: 2%;
+    border: none;
+}
+
+/* Navbar style tugadi */
+
+
+/* Margin-left boshlandi */
+
+.ml-2 {
+    margin-left: 2%;
+}
+
+.ml-3 {
+    margin-left: 3%;
+}
+
+.ml-4 {
+    margin-left: 4%;
+}
+
+.ml-5 {
+    margin-left: 5%;
+}
+
+.ml-10 {
+    margin-left: 10%;
+}
+
+.ml-20 {
+    margin-left: 20%;
+}
+
+.ml-25 {
+    margin-left: 25%;
+}
+
+.ml-30 {
+    margin-left: 30%;
+}
+
+.ml-35 {
+    margin-left: 35%;
+}
+
+.ml-40 {
+    margin-left: 40%;
+}
+
+.ml-45 {
+    margin-left: 50%;
+}
+
+.no-decoration{
+    text-decoration: none;
+}
+
+/* Margin-left tugadi */
+
+/* Carousel style boshlandi */
+.carousel-btn-1 {
+    background: #E21A43;
+    width: 130px;
+    height: 50px;
+    border: none;
+    color: white;
+    font-weight: 600;
+}
+
+.carousel-btn-2 {
+    width: 130px;
+    height: 50px;
+    background: white;
+    border: 1px solid #E21A43;
+    color: #E21A43;
+    font-weight: 600;
+}
+/* Carousel style tugadi */
+
+
+
+/* NewProducts style boshlandi */
+.mynewproductsimg{
+    background: white;
+    padding: 8%;
+}
+
+.mynewproductspan{
+    font-size: 150%;
+    font-weight: 600;
+}
+
+.order-now-btn{
+    background: rgba(226, 26, 67, 0.1);
+    color: #E21A43;
+    font-weight: 600;
+    border: none;
+    padding: 6%;
+}
+/* NewProducts style tugadi */
+
+
+/* Footer boshlandi*/
+
+.div-color{
+    background-color: #f7f7f7;
+    background-image: var();
+}
+
+.bg-img{
+    background-image: url("../public/images/mySvg.png");
+    background-repeat: no-repeat;
+    padding-top: 10%;
+}
+
+
+
+
+/* Footer tugadi*/
+
+
+/* NewProducts2 boshlandi*/
+
+.color-black{
+    color: black;
+}
+
+.color-black:active{
+    color: #E21A43 !important;
+}
+
+.color-black:focus{
+    color: #E21A43 !important;
+}
+
+.color-black:hover{
+    color: #E21A43 !important;
+}
+
+/* NewProducts2 tugadi*/
